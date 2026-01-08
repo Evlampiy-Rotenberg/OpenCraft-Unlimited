@@ -1,0 +1,5 @@
+bin/
+obj/
+
+compile.bat
+run.bat
