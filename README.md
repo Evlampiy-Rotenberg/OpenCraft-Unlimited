@@ -55,7 +55,7 @@ Used under Faithful License v3
 
 ## Скриншоти
 
-![OpenCraft Unlimited Screenshot](screenshots/screenshot1.png)
+![OpenCraft Unlimited Screenshot](screenshots/screenshot1.PNG)
 
 ---
 
